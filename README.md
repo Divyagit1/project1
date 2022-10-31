@@ -1,3 +1,3 @@
-# project1
+# This is the Git tutorial
 
-#updated the file
+#We will learn git
