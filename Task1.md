@@ -5,4 +5,4 @@
 2. git branch : To show the current branch. Branches are actually the pointers to the commits. ![img_1.png](img_1.png) <br><br>
 3. git add : It stages all the changes in the working directory for the next commit. ![img_2.png](img_2.png) <br><br>
 4. git commit : It captures a snapshot of the project's currently staged changes.![img_3.png](img_3.png) <br><br>
-5. git push : 
+5. git push : The git push command is used to upload local repository content to a remote repository. ![img_4.png](img_4.png)<br><br>
